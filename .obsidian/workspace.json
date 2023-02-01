@@ -4,71 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "3434499aec52c91a",
+        "id": "d1eb27e51000e542",
         "type": "tabs",
         "children": [
           {
-            "id": "e8f3ce250d198c7f",
+            "id": "db762f74bc3d5868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStackVault/JAVA/Algoritmos.md",
+                "file": "FullStackVault/NodeJS/NPM.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9962d467e9f0e7c2",
+            "id": "658e4e0690e01f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStackVault/JAVA/Compiling and Executing Java Code.md",
+                "file": "FullStackVault/NodeJS/Express/Roteamento Básico.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef6a0fe30f08c91e",
+            "id": "c18a6ab357f664c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStackVault/JAVA/Algoritmos.md",
+                "file": "FullStackVault/NodeJS/HandleBars/Handlebars.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c70b112ae20466a",
+            "id": "df4c557b855d7111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStackVault/JAVA/Creating a First Java Class.md",
+                "file": "FullStackVault/NodeJS/HandleBars/Instalar o Handlebars.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab7358c2609ced5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FullStackVault/JAVA/Creating a First Java Class.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bf5df0dff8e2c28",
+            "id": "fccd90c8fcf08045",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -76,19 +64,43 @@
             }
           },
           {
-            "id": "b56a6e7400232e79",
+            "id": "f3bc64b881e44a26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStackVault/JavaScript/Promise.md",
+                "file": "FullStackVault/NodeJS/Nodemon/nodemon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b50e5deea20bfca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FullStackVault/NodeJS/Sequelize/Sequelize.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dcdc1027df5945c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FullStackVault/NodeJS/Sequelize/Conectando a um banco de dados.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FullStackVault/JavaScript/Promise.md",
+                "file": "FullStackVault/NodeJS/Sequelize/Conectando a um banco de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FullStackVault/JavaScript/Promise.md",
+                "file": "FullStackVault/NodeJS/Sequelize/Conectando a um banco de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FullStackVault/JavaScript/Promise.md"
+                "file": "FullStackVault/NodeJS/Sequelize/Conectando a um banco de dados.md"
               }
             }
           }
@@ -215,17 +227,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b56a6e7400232e79",
+  "active": "0dcdc1027df5945c",
   "lastOpenFiles": [
-    "FullStackVault/NodeJS/NodeJS.md",
-    "FullStackVault/JAVA/Orientação a Objeto.md",
-    "FullStackVault/JAVA/Object.md",
-    "FullStackVault/JAVA/Main Java Notes.md",
-    "FullStackVault/JAVA/Java.md",
-    "FullStackVault/JAVA/Creating a First Java Class.md",
-    "FullStackVault/JAVA/Compiling and Executing Java Code.md",
-    "FullStackVault/JAVA/Common Problems and Their Solutions.md",
-    "FullStackVault/JAVA/Class.md",
-    "FullStackVault/JAVA/Algoritmos.md"
+    "FullStackVault/NodeJS/Sequelize/Sequelize.md",
+    "FullStackVault/NodeJS/Sequelize/Conectando a um banco de dados.md",
+    "FullStackVault/NodeJS/Nodemon/nodemon.md",
+    "FullStackVault/NodeJS/Untitled.md",
+    "FullStackVault/NodeJS/HandleBars/Language features.md",
+    "FullStackVault/NodeJS/HandleBars/Instalar o Handlebars.md",
+    "FullStackVault/NodeJS/HandleBars/What is Handlebars.md",
+    "FullStackVault/NodeJS/HandleBars/Handlebars.md",
+    "FullStackVault/NodeJS/Express/Roteamento Básico.md",
+    "FullStackVault/NodeJS/Express/Express.md"
   ]
 }
