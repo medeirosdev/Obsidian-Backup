@@ -1,1 +1,1 @@
-https://dev.java/learn/numbers-strings/
+[[Java]]https://dev.java/learn/numbers-strings/

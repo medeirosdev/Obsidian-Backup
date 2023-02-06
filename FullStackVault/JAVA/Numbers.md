@@ -1,5 +1,5 @@
 ## Numbers
-
+[[Java]]
 Primitive number types are divided into two groups:
 
 **Integer types** stores whole numbers, positive or negative (such as 123 or -456), without decimals. Valid types are `byte`, `short`, `int` and `long`. Which type you should use, depends on the numeric value.

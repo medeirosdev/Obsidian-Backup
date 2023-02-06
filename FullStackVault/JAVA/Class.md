@@ -1,5 +1,5 @@
 ## What is a Class?
-
+[[Java]]
 In your applications, you will often find many individual objects all of the same kind. There may be thousands of other bicycles in existence, all of the same make and model. Each bicycle was built from the same set of blueprints and therefore contains the same components. In object-oriented terms, we say that your bicycle is an instance of the _class of objects_ known as bicycles. A _class_ is the blueprint from which individual objects are created.
 [[Orientação a Objeto]]
 

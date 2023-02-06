@@ -1,5 +1,5 @@
 You have already learned that objects store their state in fields. However, the Java programming language also uses the term _variable_ as well. This section discusses this relationship, plus variable naming rules and conventions, basic data types (primitive types, character strings, and arrays), default values, and literals.
-
+[[Java]]
  
 
 ## Primitive Types

@@ -1,5 +1,5 @@
 ## Multiple Classes in Same File
-
+[[Java]]
 Multiple classes can be defined within the same source file if needed for encapsulation purposes, like in this example:
 
 ```java
