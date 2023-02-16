@@ -1,0 +1,12 @@
+- Qual problema que o Docker Resolve?
+![[Pasted image 20230215123409.png]]
+![[Pasted image 20230215123528.png]]
+![[Pasted image 20230215123543.png]]
+![[Pasted image 20230215123742.png]]
+![[Pasted image 20230215123802.png]]
+![[Pasted image 20230215123912.png]]
+![[Pasted image 20230215124008.png]]
+![[Pasted image 20230215124030.png]]
+![[Pasted image 20230215124137.png]]
+![[Pasted image 20230215124228.png]]
+  ![[Pasted image 20230215124323.png]]

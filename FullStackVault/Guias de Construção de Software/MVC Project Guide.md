@@ -36,3 +36,55 @@ Crie uma rota POST e já inseria o controller.métodonamepost
 E agora vamos caracterizar eses método createProductPost e criar ele no arquivo controllers
 ![[Pasted image 20230214091716.png]]
 nesse pegamos cada informação , juntamos num novo objeto e salvamos, esses métodos, o new product e o save( ) foram alterados lá atrás no Models
+
+![[Pasted image 20230214095639.png]]
+
+![[Pasted image 20230214095910.png]]
+Criamos um método getProducts para receber todos os produtos e transformamos eles todos em array
+
+agora vamos alterar no showproducts, no controllers
+![[Pasted image 20230214100049.png]]
+vamos renderizar products/all e passar { products }
+
+
+Vamos criar uma View 
+![[Pasted image 20230214100223.png]]
+e iterar  cada produto com suas particularidades com o handlebars, com o each
+
+![[Pasted image 20230214101648.png]]
+
+Vamos criar a rota post para obter e filtrar pelo ID
+![[Pasted image 20230214101920.png]]
+
+Na pasta controller, vamos definir o método da rota :id , o getProduct
+![[Pasted image 20230214102141.png]]
+Vamos até a pasta models e criar  o método getProductById PARA conseguirmos o id através do contato com o banco de dados
+![[Pasted image 20230214102620.png]]
+utilizamos um import { ObjectId } para usar
+
+Tem alguns dados errados e faltando nos prints, o prof corrigiu depois, -> olhar projeto original
+
+----
+![[Pasted image 20230215074458.png]]
+![[Pasted image 20230215074657.png]]
+Crie uma Rota POST para pegar o ID do dado
+Agora vamos ao controller criar o método dentro da classe
+![[Pasted image 20230215074932.png]]
+Nisso, precisamos agora criar o método removeProductById para remover o dado na tabela
+![[Pasted image 20230215081724.png]]
+--
+![[Pasted image 20230215083845.png]]
+Vamos criar a rota para pegar o parâmetro id na url
+![[Pasted image 20230215084111.png]]
+Vamos ao controller
+![[Pasted image 20230215084423.png]]
+Agora na view preenchers os valores com os dados recebidos para serem editados![[Pasted image 20230215084500.png]]
+![[Pasted image 20230215084746.png]]
+vamos salvar a edição no form
+Crie a rota
+
+![[Pasted image 20230215085327.png]]
+
+
+O método da rota
+![[Pasted image 20230215085313.png]]

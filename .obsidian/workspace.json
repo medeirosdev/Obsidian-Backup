@@ -4,119 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d1eb27e51000e542",
+        "id": "aa5fb5284052e91f",
         "type": "tabs",
         "children": [
           {
-            "id": "8fc214cbd2374a4c",
+            "id": "7fa7528cdf0a97c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStackVault/JAVA/Java Switch.md",
+                "file": "FullStackVault/APIs/API RESTful.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99a668ecd4156671",
+            "id": "ada32be9baccb299",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStackVault/JAVA/While.md",
+                "file": "FullStackVault/JAVA/Tratamento de Erros.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf6eceaf15efe08f",
+            "id": "56bab10ec1a94a50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStackVault/JAVA/Java For Loop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "243a4920e0ce1d60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FullStackVault/JAVA/For-Each Loop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1512106d3cac65b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FullStackVault/JAVA/Java Break and Continue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed687531bf71dd1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FullStackVault/JAVA/Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ded8d748783ab9e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FullStackVault/JAVA/Java Arrays Loop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7001c24fc7bf11e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FullStackVault/JAVA/Java Multi-Dimensional Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad1ce9a9f6876512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FullStackVault/JAVA/Java Methods.md",
+                "file": "FullStackVault/Guias de Construção de Software/RESTful Projeto with API First.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FullStackVault/JAVA/Java Methods.md",
+                "file": "FullStackVault/Guias de Construção de Software/RESTful Projeto with API First.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FullStackVault/JAVA/Java Methods.md",
+                "file": "FullStackVault/Guias de Construção de Software/RESTful Projeto with API First.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FullStackVault/JAVA/Java Methods.md"
+                "file": "FullStackVault/Guias de Construção de Software/RESTful Projeto with API First.md"
               }
             }
           }
@@ -243,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad1ce9a9f6876512",
+  "active": "56bab10ec1a94a50",
   "lastOpenFiles": [
-    "FullStackVault/JAVA/Java Multi-Dimensional Arrays.md",
-    "FullStackVault/JAVA/Java Arrays Loop.md",
-    "FullStackVault/JAVA/Arrays.md",
-    "FullStackVault/JAVA/Java Break and Continue.md",
-    "FullStackVault/JAVA/For-Each Loop.md",
-    "FullStackVault/JAVA/Java For Loop.md",
-    "FullStackVault/JAVA/While.md",
-    "FullStackVault/JAVA/Java Switch.md",
-    "FullStackVault/JAVA/Java Math.md",
-    "FullStackVault/JAVA/Interface.md"
+    "FullStackVault/JAVA/Tratamento de Erros.md",
+    "FullStackVault/JavaScript/JS HTML DOM/DOM Elements.md",
+    "FullStackVault/JavaScript/Arrow Function.md",
+    "FullStackVault/APIs/API RESTful.md",
+    "FullStackVault/Docker/Introdução Docker.md",
+    "FullStackVault/APIs/SPA.md",
+    "FullStackVault/APIs/Monolith.md",
+    "FullStackVault/APIs/APIs.md",
+    "FullStackVault/Guias de Construção de Software/MVC Project Guide.md",
+    "FullStackVault/JAVA/Estruturas de Dados/Estruturas de Dados.md"
   ]
 }

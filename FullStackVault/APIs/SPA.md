@@ -1,0 +1,5 @@
+- SPA means Single Page Application
+- É quando uma aplicação possui um front-end separado do back-end
+- REACT -> faz SPA
+- É um framewok do front-end JS -> tais como React, Vue ou Angular
+- Aplicações desse tipo estão dominando o mercado
