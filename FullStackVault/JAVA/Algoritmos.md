@@ -1,0 +1,4 @@
+[[Algoritmos]] [[Estrutura de Dados]] [[Fluxogramas]] [[Java]]
+Um algoritmo é **uma sequência de raciocínios, instruções ou operações para alcançar um objetivo**, sendo necessário que os passos sejam finitos e operados sistematicamente. Um algoritmo, portanto, conta com a entrada (input) e saída (output) de informações mediadas pelas instruções
+**É fundamental compreender que o algoritmo se justifica no resultado que ele almeja alcançar**, logo, deve ter um objetivo específico. Uma sequência de instruções simples pode se tornar mais complexa conforme a necessidade de considerar outras situações.
+ Também é relevante que a estrutura siga uma **lógica sistemática**. Por exemplo, se você está fazendo um bolo, mas “pula” a etapa de inserir farinha, no final, você não terá mais um bolo.

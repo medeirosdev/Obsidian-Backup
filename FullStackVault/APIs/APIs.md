@@ -1,0 +1,5 @@
+- API é um acrônimo para Application Programming Interface
+- Uma forma simples de comunicação entre aplicações.
+- Não necessita de telas, normalmente as respostas são dadas em JSON.
+- a API não tem ligação com o front-end;
+- Baseadas em requisições e respostas;

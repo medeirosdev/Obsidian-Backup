@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ab81124bd500d2e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5f0489460001abd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pentest/Linux Parte 2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4deab1c34d7b3b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5665f1effc03f0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac8a32bb61b77a58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72c7bf6bb1508f48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "API",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241
+  },
+  "right": {
+    "id": "d0e9dfca5c567664",
+    "type": "split",
+    "children": [
+      {
+        "id": "f759f5b98f22f379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce9dfb2cc7634807",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pentest/Linux Parte 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d5f0489460001abd",
+  "lastOpenFiles": [
+    "Pentest/Linux Parte 2.md",
+    "Pentest/Linux Parte 1.md",
+    "Pentest/Shell Operators - Linux.md",
+    "TypeScript/Untitled 1.md",
+    "UX UI/Materiais Análises e Testes remotos e ferramentas.md",
+    "JS Objects/Definições.md",
+    "Química/Pressão de Vapor/Teoria Pressão de vapor.md",
+    "JavaScript/fetch().md",
+    "TypeScript/Início.md",
+    "JavaScript/Tipos de função.md"
+  ]
+}

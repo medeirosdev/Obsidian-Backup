@@ -1,0 +1,481 @@
+{
+  "main": {
+    "id": "ab81124bd500d2e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad30c5ddc9f576fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9bb642e461c660e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/1 Tesseract OCR/1.0 Ambiente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1da00d10bbc2f0f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/5 Projeto Final/2 Reconhecimento do texto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d47268e6e801a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/5 Projeto Final/3 Busca de ocorrência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c16f3fdc09a6bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/5 Projeto Final/4 Reconhecimento na imagem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7101a7c227ca1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/5 Projeto Final/5 - Projeto Finalizado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56884e9e82b59956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/5 Projeto Final/Arquivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c05257913c20f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/5 Projeto Final/Arquivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "897aa0aa49d65904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/1 Tesseract OCR/3.0 OCR no pylab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43621979c8c7bf87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/1 Tesseract OCR/4.0 Bibliotecas Adicionais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7211ee7ad4212536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/1 Tesseract OCR/5.0 Imagens BGR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc770da1ba7fdeb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/2 Explorando Ferramenta/1.0 Explorando a Ferramenta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57b3dcbdb7dd72db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/2 Explorando Ferramenta/2.0 PSMs - Page Segmentation Modes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adfe6b3785336f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/2 Explorando Ferramenta/3.0 Aplicando o PSM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d9375c1077c6ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/2 Explorando Ferramenta/4.0 PIL - Python Imaging Library.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25f4e64dc9cc500e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/3 Achados Textuais/1.0 Selecionando textos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bee4fd7bdb6bf6ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/3 Achados Textuais/2.0 Caixa delimitadora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "668f7bde2b97c399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/3 Achados Textuais/3.0 Caixa e texto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81bb5ced75df8de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/3 Achados Textuais/4.0 Bounding Box.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "835488d22efaa54b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/3 Achados Textuais/5.0 Fontes e Funções para Fontes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7fa9e17474943b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/3 Achados Textuais/6.0 salvando image.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a184b11715def46c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/4 Cenários Complexos/1 Busca de informações.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09d1366452ddc43f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/4 Cenários Complexos/2 Destaque de informações.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "439e1b9faa984d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/4 Cenários Complexos/3 Cenários naturais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "392ac5ac41acb099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/4 Cenários Complexos/4 Para saber mais métricas de avaliação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d177026a25cb2a82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/4 Cenários Complexos/5 Falsos positivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49069e7615599c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/4 Cenários Complexos/6 Para saber mais fotos em cenários naturais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "909cbd6083193434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/5 Projeto Final/1 Preparando o ambiente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a72610897b34b6f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV e OCR/5 Projeto Final/2 Reconhecimento do texto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4deab1c34d7b3b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5665f1effc03f0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac8a32bb61b77a58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72c7bf6bb1508f48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241
+  },
+  "right": {
+    "id": "d0e9dfca5c567664",
+    "type": "split",
+    "children": [
+      {
+        "id": "f759f5b98f22f379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce9dfb2cc7634807",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OpenCV e OCR/5 Projeto Final/Arquivos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "9c05257913c20f9c",
+  "lastOpenFiles": [
+    "OpenCV e OCR/5 Projeto Final/5 - Projeto Finalizado.md",
+    "OpenCV e OCR/5 Projeto Final/4 Reconhecimento na imagem.md",
+    "OpenCV e OCR/5 Projeto Final/3 Busca de ocorrência.md",
+    "OpenCV e OCR/5 Projeto Final/2 Reconhecimento do texto.md",
+    "OpenCV e OCR/5 Projeto Final/1 Preparando o ambiente.md",
+    "OpenCV e OCR/4 Cenários Complexos/6 Para saber mais fotos em cenários naturais.md",
+    "OpenCV e OCR/4 Cenários Complexos/5 Falsos positivos.md",
+    "OpenCV e OCR/4 Cenários Complexos/4 Para saber mais métricas de avaliação.md",
+    "OpenCV e OCR/4 Cenários Complexos/3 Cenários naturais.md",
+    "OpenCV e OCR/4 Cenários Complexos/2 Destaque de informações.md",
+    "OpenCV e OCR/4 Cenários Complexos/1 Busca de informações.md",
+    "OpenCV e OCR/3 Achados Textuais/6.0 salvando image.md",
+    "OpenCV e OCR/3 Achados Textuais/5.0 Fontes e Funções para Fontes.md",
+    "OpenCV e OCR/3 Achados Textuais/4.0 Bounding Box.md",
+    "OpenCV e OCR/3 Achados Textuais/3.0 Caixa e texto.md",
+    "OpenCV e OCR/3 Achados Textuais/2.0 Caixa delimitadora.md",
+    "OpenCV e OCR/3 Achados Textuais/1.0 Selecionando textos.md",
+    "OpenCV e OCR/2 Explorando Ferramenta/4.0 PIL - Python Imaging Library.md",
+    "OpenCV e OCR/2 Explorando Ferramenta/3.0 Aplicando o PSM.md",
+    "OpenCV e OCR/2 Explorando Ferramenta/2.0 PSMs - Page Segmentation Modes.md",
+    "OpenCV e OCR/2 Explorando Ferramenta/1.0 Explorando a Ferramenta.md",
+    "OpenCV e OCR/1 Tesseract OCR/5.0 Imagens BGR.md",
+    "OpenCV e OCR/1 Tesseract OCR/4.0 Bibliotecas Adicionais.md",
+    "OpenCV e OCR/1 Tesseract OCR/3.0 OCR no pylab.md",
+    "OpenCV e OCR/1 Tesseract OCR/2.0Introdução ao Tesseract OCR.md",
+    "OpenCV e OCR/1 Tesseract OCR/1.0 Ambiente.md",
+    "text-recognize-main.zip",
+    "OpenCV e OCR/5 Projeto Final",
+    "Pasted image 20230307164527.png",
+    "Pasted image 20230307164454.png",
+    "Pasted image 20230307164349.png",
+    "OpenCV e OCR/Busca de informaçõesUntitled",
+    "OpenCV e OCR/4 Cenários Complexos",
+    "Pasted image 20230307164035.png",
+    "Pasted image 20230307160958.png",
+    "OpenCV e OCR/3 Achados Textuais",
+    "Pasted image 20230307160605.png",
+    "OpenCV e OCR/2 Explorando Ferramenta",
+    "OpenCV e OCR/1 Tesseract OCR",
+    "OpenCV e OCR",
+    "Pasted image 20230306105021.png",
+    "Pasted image 20230306104903.png",
+    "CSharp/API mínima/Untitled",
+    "CSharp/API mínima",
+    "Pasted image 20230301195056.png",
+    "Pasted image 20230301195008.png"
+  ]
+}

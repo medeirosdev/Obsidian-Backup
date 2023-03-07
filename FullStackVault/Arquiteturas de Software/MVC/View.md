@@ -1,0 +1,4 @@
+[[MVC]]
+A view é a camada de visualização e representa a parte do sistema que interage com o usuário. É pela interface que haverá a entrada dos dados inseridos pelo usuário e também a saída de informações que serão exibidas para ele. Esses dados serão inseridos ou exibidos geralmente por formulários de entrada ou de saída, tabelas, grids, entre outras formas. A view não contém lógica de negócios, portanto todo o processamento é feito pela camada model e então a resposta é repassada para a view pelo controlador.
+
+Em aplicações de plataforma Desktop, a visão pode ser representada por classes que são construídas com base em componentes do tipo SWING, AWT, SWT, entre outros. Já as aplicações de plataforma Web seriam representadas por páginas do tipo JSP, JSF, entre outros tipos e que são exibidas a partir de um navegador Web.
