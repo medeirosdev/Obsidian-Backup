@@ -4,179 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad30c5ddc9f576fa",
+        "id": "d5dd644b838b8180",
         "type": "tabs",
         "children": [
           {
-            "id": "d9bb642e461c660e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/1 Tesseract OCR/1.0 Ambiente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1da00d10bbc2f0f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/5 Projeto Final/2 Reconhecimento do texto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d47268e6e801a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/5 Projeto Final/3 Busca de ocorrência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c16f3fdc09a6bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/5 Projeto Final/4 Reconhecimento na imagem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7101a7c227ca1ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/5 Projeto Final/5 - Projeto Finalizado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56884e9e82b59956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/5 Projeto Final/Arquivos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c05257913c20f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/5 Projeto Final/Arquivos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "897aa0aa49d65904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/1 Tesseract OCR/3.0 OCR no pylab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43621979c8c7bf87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/1 Tesseract OCR/4.0 Bibliotecas Adicionais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7211ee7ad4212536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/1 Tesseract OCR/5.0 Imagens BGR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc770da1ba7fdeb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/2 Explorando Ferramenta/1.0 Explorando a Ferramenta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57b3dcbdb7dd72db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/2 Explorando Ferramenta/2.0 PSMs - Page Segmentation Modes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adfe6b3785336f49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/2 Explorando Ferramenta/3.0 Aplicando o PSM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d9375c1077c6ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/2 Explorando Ferramenta/4.0 PIL - Python Imaging Library.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25f4e64dc9cc500e",
+            "id": "80b3bf5d4d4830a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,163 +20,319 @@
             }
           },
           {
-            "id": "bee4fd7bdb6bf6ad",
+            "id": "005261e84ffd0431",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/3 Achados Textuais/2.0 Caixa delimitadora.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/1 Ambiente.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "668f7bde2b97c399",
+            "id": "b6825aa854dab624",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/3 Achados Textuais/3.0 Caixa e texto.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/2 Instalando o Tesseract.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "81bb5ced75df8de5",
+            "id": "b59119f7b55f3211",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/3 Achados Textuais/4.0 Bounding Box.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/3 Detectando textos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "835488d22efaa54b",
+            "id": "b0f59e93824bb334",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/3 Achados Textuais/5.0 Fontes e Funções para Fontes.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/4 Configurações adicionais.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7fa9e17474943b2",
+            "id": "3d624abafb9f2907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/3 Achados Textuais/6.0 salvando image.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/5 - Adicional.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a184b11715def46c",
+            "id": "58aacbd58ab477db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/4 Cenários Complexos/1 Busca de informações.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/1 Limiarização simples e Função threshold.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "09d1366452ddc43f",
+            "id": "614aa3b5bb96265d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/4 Cenários Complexos/2 Destaque de informações.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/2 Limiarização adaptativa.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "439e1b9faa984d1e",
+            "id": "7185e05b80d22f28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/4 Cenários Complexos/3 Cenários naturais.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/3 limiarização de Otsu.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "392ac5ac41acb099",
+            "id": "a527e5a12a74ab0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/4 Cenários Complexos/4 Para saber mais métricas de avaliação.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/4 Saber Mais.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d177026a25cb2a82",
+            "id": "1ca1ffd334582001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/4 Cenários Complexos/5 Falsos positivos.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/1 Erosão e dilatação e Para saber mais Kernel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "49069e7615599c61",
+            "id": "0b0b89d895d6cf2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/4 Cenários Complexos/6 Para saber mais fotos em cenários naturais.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/2 Abertura e fechamento.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "909cbd6083193434",
+            "id": "62b389b45b87e698",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/5 Projeto Final/1 Preparando o ambiente.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/3 Outras transformações.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a72610897b34b6f9",
+            "id": "63ca8be757ed43d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV e OCR/5 Projeto Final/2 Reconhecimento do texto.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/4 Transformações compostas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60d0e0a6171ea975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/1 Bordas e contornos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f188cb21802249f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/2 Desafio método de Canny.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2f1ff397c882833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/3 Localização da placa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef625e8dbc15bc89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/4 Detecção dos textos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10a2671b882ffeeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/5 Para saber mais Regex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75a5b195c773e86a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/6 Aplicação em outro cenário.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e91ed8c3bbcb7db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/1 Contraste.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e7af0f44e9a4d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/2 Para saber mais Sobel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0be2142d1b52719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/3 Desafio Sobel na direção y.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06b38f0147f78177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/4 Máscara.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b775e1aa7d5d0d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/5 Para saber mais Bitwise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88a2b8450853470a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/6 Detecção de caracteres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6e40b1dad52aab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/7 Áreas da fronteira da imagem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -374,9 +362,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -402,7 +390,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenCV e OCR/5 Projeto Final/Arquivos.md",
+                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/7 Áreas da fronteira da imagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,53 +417,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9c05257913c20f9c",
+  "active": "ac8a32bb61b77a58",
   "lastOpenFiles": [
-    "OpenCV e OCR/5 Projeto Final/5 - Projeto Finalizado.md",
-    "OpenCV e OCR/5 Projeto Final/4 Reconhecimento na imagem.md",
-    "OpenCV e OCR/5 Projeto Final/3 Busca de ocorrência.md",
-    "OpenCV e OCR/5 Projeto Final/2 Reconhecimento do texto.md",
-    "OpenCV e OCR/5 Projeto Final/1 Preparando o ambiente.md",
-    "OpenCV e OCR/4 Cenários Complexos/6 Para saber mais fotos em cenários naturais.md",
-    "OpenCV e OCR/4 Cenários Complexos/5 Falsos positivos.md",
-    "OpenCV e OCR/4 Cenários Complexos/4 Para saber mais métricas de avaliação.md",
-    "OpenCV e OCR/4 Cenários Complexos/3 Cenários naturais.md",
-    "OpenCV e OCR/4 Cenários Complexos/2 Destaque de informações.md",
-    "OpenCV e OCR/4 Cenários Complexos/1 Busca de informações.md",
-    "OpenCV e OCR/3 Achados Textuais/6.0 salvando image.md",
-    "OpenCV e OCR/3 Achados Textuais/5.0 Fontes e Funções para Fontes.md",
-    "OpenCV e OCR/3 Achados Textuais/4.0 Bounding Box.md",
-    "OpenCV e OCR/3 Achados Textuais/3.0 Caixa e texto.md",
-    "OpenCV e OCR/3 Achados Textuais/2.0 Caixa delimitadora.md",
-    "OpenCV e OCR/3 Achados Textuais/1.0 Selecionando textos.md",
-    "OpenCV e OCR/2 Explorando Ferramenta/4.0 PIL - Python Imaging Library.md",
-    "OpenCV e OCR/2 Explorando Ferramenta/3.0 Aplicando o PSM.md",
-    "OpenCV e OCR/2 Explorando Ferramenta/2.0 PSMs - Page Segmentation Modes.md",
-    "OpenCV e OCR/2 Explorando Ferramenta/1.0 Explorando a Ferramenta.md",
-    "OpenCV e OCR/1 Tesseract OCR/5.0 Imagens BGR.md",
-    "OpenCV e OCR/1 Tesseract OCR/4.0 Bibliotecas Adicionais.md",
-    "OpenCV e OCR/1 Tesseract OCR/3.0 OCR no pylab.md",
-    "OpenCV e OCR/1 Tesseract OCR/2.0Introdução ao Tesseract OCR.md",
-    "OpenCV e OCR/1 Tesseract OCR/1.0 Ambiente.md",
-    "text-recognize-main.zip",
-    "OpenCV e OCR/5 Projeto Final",
+    "Visão Computacional reconhecimento de Placas/Aula5.ipynb",
+    "Aula5.ipynb",
+    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/6 Detecção de caracteres.md",
+    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/7 Áreas da fronteira da imagem.md",
+    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/5 Para saber mais Bitwise.md",
+    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/4 Máscara.md",
+    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/3 Desafio Sobel na direção y.md",
+    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/2 Para saber mais Sobel.md",
+    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/1 Contraste.md",
+    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/6 Aplicação em outro cenário.md",
+    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/5 Para saber mais Regex.md",
+    "Pasted image 20230315161717.png",
+    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/4 Detecção dos textos.md",
+    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/3 Localização da placa.md",
+    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/2 Desafio método de Canny.md",
+    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/1 Bordas e contornos.md",
+    "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/4 Transformações compostas.md",
+    "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/3 Outras transformações.md",
+    "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/2 Abertura e fechamento.md",
+    "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/1 Erosão e dilatação e Para saber mais Kernel.md",
+    "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/4 Saber Mais.md",
+    "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/3 limiarização de Otsu.md",
+    "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/2 Limiarização adaptativa.md",
+    "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/1 Limiarização simples e Função threshold.md",
+    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/5 - Adicional.md",
+    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/4 Configurações adicionais.md",
+    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/3 Detectando textos.md",
+    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/2 Instalando o Tesseract.md",
+    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/4",
+    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/3",
+    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/2",
+    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/1 Preparando o ambiente",
+    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado",
+    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa",
+    "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas",
+    "Visão Computacional reconhecimento de Placas/0.2 - Limiarização",
+    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema",
+    "Pasted image 20230308123522.png",
     "Pasted image 20230307164527.png",
     "Pasted image 20230307164454.png",
     "Pasted image 20230307164349.png",
-    "OpenCV e OCR/Busca de informaçõesUntitled",
-    "OpenCV e OCR/4 Cenários Complexos",
     "Pasted image 20230307164035.png",
     "Pasted image 20230307160958.png",
-    "OpenCV e OCR/3 Achados Textuais",
     "Pasted image 20230307160605.png",
-    "OpenCV e OCR/2 Explorando Ferramenta",
-    "OpenCV e OCR/1 Tesseract OCR",
-    "OpenCV e OCR",
     "Pasted image 20230306105021.png",
-    "Pasted image 20230306104903.png",
-    "CSharp/API mínima/Untitled",
-    "CSharp/API mínima",
-    "Pasted image 20230301195056.png",
-    "Pasted image 20230301195008.png"
+    "Pasted image 20230306104903.png"
   ]
 }
