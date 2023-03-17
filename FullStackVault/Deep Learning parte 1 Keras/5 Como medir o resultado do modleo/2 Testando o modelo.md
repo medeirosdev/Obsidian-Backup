@@ -1,0 +1,11 @@
+Fizemos nosso modelo .fit, e o próximo passo depois de treinarmos o modelo é fazer a predição, testando-o, para vermos como ele está se adaptando a dados novos. Então, do mesmo modo que fizemos no curso de Machine Learning, após o modelo.fit vem o modelo.predict. Para isso, scrollaremos e criaremos uma nova célula, em que faremos nossos testes, que irão receber as predições do modelo.predict, que vão abrir e fechar parênteses e, para ele, passaremos imagens_teste.
+
+Agora podemos executar com Cmd + Enter. Legal, temos nossos testes, mas fizemos só o predict. Para exibirmos um resultado, podemos inspecionar o primeiro elemento do nosso vetor de testes, então escreveremos testes, abre colchetes, 0, fecha colchetes. Daremos Cmd + Enter, ou Ctrl + Enter novamente.
+
+O que um predict volta para nós é, para cada imagem, um array com 10 posições que variam de 0 a 1. Podemos ver que trata-se de um float, então tem mais elementos depois do 0 e do 1 que não estamos enxergando. Para sabermos qual foi o resultado deste teste, precisamos pegar o maior número, e a posição dele irá nos dizer se acertamos ou erramos.
+
+Para isso usaremos uma função da biblioteca do NumPy chamada argmax, que é o maior argumento, e passaremos o testes para esta função. O NumPy é chamado de np, portanto ficaremos com np.argmax. Como o usaremos mais para baixo, teremos que importá-lo lá em cima. Iremos à primeira célula e escreveremos import numpy as np.
+
+Vamos executar, importar, e voltar e rodar o predict. Muito bem, printaremos o resultado do predict, e o resultado real, a descrição da imagem, que está em identificacoes_teste, terá entre colchetes 0. Vamos ver se acertamos ou erramos, rodando mais uma vez. Vejam que bacana, treinamos bem a nossa rede de Deep Learning, ou Rede Neural, pois o resultado do nosso teste deu 9, e o número da nossa imagem de teste também.
+
+Vamos inspecionar mais um. Se quisermos ver o primeiro elemento, vamos ver se ele acerta. Esse já erramos, o resultado do teste dá 9, mas o número da imagem é 2. Então, onde está 9 deveria ser 2. Como é que saberemos, para avaliar e entender se nosso modelo está indo bem ou mal? Agora fica esta dúvida.

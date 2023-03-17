@@ -1,0 +1,11 @@
+Vimos que nosso modelo acertou, mas também errou. Como é que saberemos quantas vezes ele acertou ou errou, o quanto ele teve de acurácia ou perda. Existe uma forma de vermos isso em nosso teste; o Keras disponibiliza uma função para nós, de avaliação. Criaremos outra célula no Notebook, em que faremos um modelo.evaluate, para o qual passaremos as imagens de teste e as identificações de teste.
+
+O que isso nos retornará? Podemos executar essa linha para vermos. Reparem que ele nos retorna um array com dois números. A primeira posição que temos é a perda do nosso teste, e a segunda é a acurácia do mesmo, então podemos ir ao nosso código e escrever perda_teste e acuracia_teste, e estas duas variáveis irão receber modelo.evaluate.
+
+Para exibirmos as duas de maneira bem legal, podemos usar o print do mesmo modo como fizemos com o número da imagem e no resultado do teste. Daremos Cmd + Enter, e temos certinho a perda e a acurácia do teste. Reparem em mais uma coisa deste output: aqui passamos por 10000 imagens, estamos demorando 0s, e estamos tendo esta perda e esta acurácia.
+
+Por aqui começamos a saber que, por exemplo, a perda está bem alta e a acurácia, baixa. Seria legal fazermos ajustes em nosso modelo, um dos quais é lembrar do curso de Machine Learning, pois aqui deixamos 60000 para treino e 10000 para teste, e lá vimos outra métrica que podíamos deixar, por exemplo, 40000 para treino, 10000 para teste, e 20000 para uma certa coisa, que era a validação.
+
+Para determinarmos e deixarmos este percentual de dados novos para o nosso modelo, podemos vir ao .fit e passar o quanto queremos deixar para a validação. Então, após epochs adicionaremos uma vírgula e indicaremos a parte que queremos para a validação. Em inglês, isso ficará validation_split, sendo split uma separação, um corte. E receberemos 20%, que é 0.2.
+
+Vamos rodar o modelo mais uma vez e aguardaremos as épocas. Desta vez rodamos 48000 exemplos, e não mais 60000, e se observarmos nossa perda e acurácia, nossa acurácia está subindo, e a nossa perda está um pouco estacionada entre 30, 27 e 28. Mas vejam que surgiram o val_loss e val_acc, o que será que eles são?

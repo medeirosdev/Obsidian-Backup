@@ -3,7 +3,14 @@
 Na Web, o HTML nos permite criar documentos estruturados ricos com seu conjunto interno de tags, como `<h1>` e `<li>`:
 
 ```
-<article>  <h1>My First Component</h1>  <ol>    <li>Components: UI Building Blocks</li>    <li>Defining a Component</li>    <li>Using a Component</li>  </ol></article>
+<article>  
+<h1>My First Component</h1>  
+<ol>   
+<li>Components: UI Building Blocks</li>    
+<li>Defining a Component</li>    
+<li>Using a Component</li>  
+</ol>
+</article>
 ```
 
 Esta marcação representa este artigo `<article>`, sua posição `<h1>`, e um índice ( abreviado ) como uma lista ordenada `<ol>`. A marcação como essa, combinada com o CSS para estilo e o JavaScript para interatividade, fica atrás de todas as barras laterais, avatar, modal, menu suspenso — todas as partes da interface do usuário que você vê na Web.
@@ -13,7 +20,15 @@ O React permite combinar sua marcação, CSS e JavaScript em componentes persona
 Assim como nas tags HTML, você pode compor, solicitar e aninhar componentes para projetar páginas inteiras. Por exemplo, a página de documentação que você está lendo é composta de componentes de reação:
 
 ```
-<PageLayout>  <NavigationHeader>    <SearchBar />    <Link to="/docs">Docs</Link>  </NavigationHeader>  <Sidebar />  <PageContent>    <TableOfContents />    <DocumentationText />  </PageContent></PageLayout>
+<PageLayout>  
+<NavigationHeader>    
+<SearchBar />    
+<Link to="/docs">Docs</Link>  
+</NavigationHeader>  
+<Sidebar />  
+<PageContent>   
+<TableOfContents />    
+<DocumentationText />  </PageContent></PageLayout>
 ```
 
 À medida que seu projeto cresce, você notará que muitos de seus projetos podem ser compostos reutilizando os componentes que você já escreveu, acelerando seu desenvolvimento. Nosso índice acima pode ser adicionado a qualquer tela com `<TableOfContents />`! Você pode até iniciar seu projeto com os milhares de componentes compartilhados pela comunidade de código aberto React, como [Chakra UI](https://chakra-ui.com/) e [UI material.](https://material-ui.com/)

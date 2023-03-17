@@ -21,7 +21,8 @@ O React [não requer](https://pt-br.reactjs.org/docs/react-without-jsx.html) o
 No exemplo abaixo, declaramos uma variável chamada `name` e então a usamos dentro do JSX ao envolvê-la com chaves:
 
 ```
-const name = 'Josh Perez';const element = <h1>Hello, {name}</h1>;
+const name = 'Josh Perez';
+const element = <h1>Hello, {name}</h1>;
 ```
 
 Você pode inserir qualquer [expressão JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#Expressions) válida dentro das chaves em JSX. Por exemplo, `2 + 2`, `user.firstName`, ou `formatName(user)` são todas expressões JavaScript válidas.

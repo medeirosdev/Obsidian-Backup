@@ -1,0 +1,15 @@
+Em relação ao val_loss e o val_acc, reparem que acabamos de adicionar validation_split, então estes dois vals são de validação, então, para cada época ou ciclo do nosso modelo, de todos os dados que estamos rodando, além de termos a perda e a acurácia no próprio treinamento, também temos a perda e a acurácia da validação que estamos fazendo.
+
+E para conseguirmos enxergar isso de maneira um pouco mais legal, pois aqui fica difícil entendermos se estamos indo bem ou mal, o que temos que ajustar ou não, podemos deixar tudo isso em um gráfico. Para isso, precisamos ir onde estamos treinando o modelo, em modelo.fit e podemos salvar este histórico.
+
+Assim, chamaremos uma variável historico e fazê-la receber o nosso modelo.fit. Executaremos a célula mais uma vez, e aí poderemos ver como acessamos as validações dentro do nosso objeto historico. Nosso modelo terminou de treinar e, por acaso, aqui já tem até uma célula. Se não tiver, você pode incluir no botão de + Code.
+
+Vamos ver o que retornou do nosso objeto historico. Ele diz que há um callback do Keras rodando no Python em cima do TensorFlow chamado History, então podemos escrever historico.history, que é o termo em inglês, e se dermos Cmd + Enter ou Ctrl + Enter, é devolvido um objeto que é um dicionário com acc, ou accuracy por época, loss, a perda por época, a acurácia de validação e a perda de validação.
+
+Então, para acessarmos o valor de acurácia acrescentamos colchetes, aspas simples e escrevemos acc, fechamos as aspas simples e damos Cmd + Enter. Agora podemos plotar um gráfico com todos estes valores para conseguirmos comparar como o nosso modelo está indo nos dados de treino e de validação.
+
+Começaremos fazendo um plt.plot para plotarmos este gráfico. Se dermos um Cmd + Enter veremos uma linha que deve significar a nossa acurácia de treino. Vamos continuar nosso gráfico. Não queremos plotar apenas a acurácia de treino, também queremos a de validação para podermos comparar uma com a outra. Então escreveremos novamente plt.plot, dessa vez com val_acc, e não acc.
+
+Podemos acrescentar um título em nosso gráfico, que será de acordo com as épocas, então será "Acurácia por épocas". Seguindo o que acabamos de ver, no eixo X, ou xlabel, podemos colocar as nossas épocas. Abaixo, no eixo Y, colocaremos a acurácia. Falta darmos um Cmd + Enter para vermos o resultado do gráfico, de acurácia por épocas — e qual é a de validação e qual é a de treino?
+
+Vamos colocar uma legenda neste gráfico; após acurácia, incluiremos plt.legend, sendo o primeiro de treino e o segundo de avaliação. Vamos visualizar para ver como ficou o nosso gráfico. Agora, vemos a acurácia por épocas, e temos que o treino é azul, enquanto a avaliação é verde. Ou seja, a nossa acurácia deu uma despencada, e a nossa avaliação também. Significa que podemos treinar nosso modelo um pouco mais. Para termos certeza disso, vamos também, na sequência, fazer um gráfico de perda.

@@ -4,335 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d5dd644b838b8180",
+        "id": "b8fda6572fa8dbf2",
         "type": "tabs",
         "children": [
           {
-            "id": "80b3bf5d4d4830a9",
+            "id": "79162edc3a54aedf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV e OCR/3 Achados Textuais/1.0 Selecionando textos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "005261e84ffd0431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/1 Ambiente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6825aa854dab624",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/2 Instalando o Tesseract.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b59119f7b55f3211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/3 Detectando textos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0f59e93824bb334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/4 Configurações adicionais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d624abafb9f2907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/5 - Adicional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58aacbd58ab477db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/1 Limiarização simples e Função threshold.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "614aa3b5bb96265d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/2 Limiarização adaptativa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7185e05b80d22f28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/3 limiarização de Otsu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a527e5a12a74ab0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/4 Saber Mais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ca1ffd334582001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/1 Erosão e dilatação e Para saber mais Kernel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b0b89d895d6cf2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/2 Abertura e fechamento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62b389b45b87e698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/3 Outras transformações.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63ca8be757ed43d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/4 Transformações compostas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60d0e0a6171ea975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/1 Bordas e contornos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f188cb21802249f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/2 Desafio método de Canny.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2f1ff397c882833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/3 Localização da placa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef625e8dbc15bc89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/4 Detecção dos textos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10a2671b882ffeeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/5 Para saber mais Regex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75a5b195c773e86a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/6 Aplicação em outro cenário.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e91ed8c3bbcb7db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/1 Contraste.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e7af0f44e9a4d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/2 Para saber mais Sobel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0be2142d1b52719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/3 Desafio Sobel na direção y.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06b38f0147f78177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/4 Máscara.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b775e1aa7d5d0d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/5 Para saber mais Bitwise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88a2b8450853470a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/6 Detecção de caracteres.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6e40b1dad52aab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/7 Áreas da fronteira da imagem.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 26
+        ]
       }
     ],
     "direction": "vertical"
@@ -374,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241
+    "width": 200
   },
   "right": {
     "id": "d0e9dfca5c567664",
@@ -390,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/7 Áreas da fronteira da imagem.md",
+                "file": "ReactJS/Resumo Geral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -419,43 +102,43 @@
   },
   "active": "ac8a32bb61b77a58",
   "lastOpenFiles": [
-    "Visão Computacional reconhecimento de Placas/Aula5.ipynb",
-    "Aula5.ipynb",
-    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/6 Detecção de caracteres.md",
-    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/7 Áreas da fronteira da imagem.md",
-    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/5 Para saber mais Bitwise.md",
-    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/4 Máscara.md",
-    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/3 Desafio Sobel na direção y.md",
-    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/2 Para saber mais Sobel.md",
-    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado/1 Contraste.md",
-    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/6 Aplicação em outro cenário.md",
-    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/5 Para saber mais Regex.md",
+    "ReactJS/Hooks.md",
+    "ReactJS/Resumo Geral.md",
+    "ReactJS/Componentes e Props.md",
+    "ReactJS/JSX.md",
+    "ReactJS/ReactJS.md",
+    "ReactJS/Regras dos Hooks.md",
+    "ReactJS/Contexts.md",
+    "ReactJS/Importing and Exporting Components.md",
+    "React Native/0.1 Ambiente/Expo App React Native.md",
+    "Deep Learning parte 1 Keras/4 Ensinando o Modelo/3 Errata Ajuste de código.md",
+    "React Native/0.1 Ambiente",
+    "React Native",
+    "Deep Learning parte 1 Keras/7 revisando conceitos chaves/keras-tensorflow-master.zip",
+    "keras-tensorflow-master.zip",
+    "Deep Learning parte 1 Keras/7 revisando conceitos chaves/2 Conclusão.md",
+    "Deep Learning parte 1 Keras/7 revisando conceitos chaves/3 Projetos.md",
+    "Deep Learning parte 1 Keras/7 revisando conceitos chaves/1 Finalizando o código.md",
+    "Deep Learning parte 1 Keras/6 ajustando e salvando o modelo/4 Para saber mais.md",
+    "Deep Learning parte 1 Keras/6 ajustando e salvando o modelo/3 Salvando o modelo.md",
+    "Deep Learning parte 1 Keras/6 ajustando e salvando o modelo/2 Under e overfitting.md",
+    "Deep Learning parte 1 Keras/6 ajustando e salvando o modelo/1 Gráfico da acurácia.md",
+    "Deep Learning parte 1 Keras/5 Como medir o resultado do modleo/3 Avaliação e validação do modelo.md",
+    "Deep Learning parte 1 Keras/5 Como medir o resultado do modleo/2 Testando o modelo.md",
+    "Deep Learning parte 1 Keras/5 Como medir o resultado do modleo/1 Runtime e acurácia de treino.md",
+    "Deep Learning parte 1 Keras/4 Ensinando o Modelo/4 Definindo número de camadas.md",
+    "Deep Learning parte 1 Keras/4 Ensinando o Modelo/2 Escala de cinza e normalização.md",
+    "Deep Learning parte 1 Keras/4 Ensinando o Modelo/1 Argumentos do compile e treino do modelo.md",
+    "Deep Learning parte 1 Keras/3 Adicionando Camadas Ocultas/5 Softmax e multicamadas.md",
+    "Deep Learning parte 1 Keras/3 Adicionando Camadas Ocultas/4 A escolha da função.md",
+    "Deep Learning parte 1 Keras/3 Adicionando Camadas Ocultas/3 Relu e não linearidade.md",
+    "Deep Learning parte 1 Keras/1 Conhecendo Conj de Dados/5",
+    "Deep Learning parte 1 Keras/7 revisando conceitos chaves",
+    "Deep Learning parte 1 Keras/6 ajustando e salvando o modelo",
+    "Deep Learning parte 1 Keras/5 Como medir o resultado do modleo",
+    "Deep Learning parte 1 Keras/4 Ensinando o Modelo",
+    "Deep Learning parte 1 Keras/3 Adicionando Camadas Ocultas",
     "Pasted image 20230315161717.png",
-    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/4 Detecção dos textos.md",
-    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/3 Localização da placa.md",
-    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/2 Desafio método de Canny.md",
-    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa/1 Bordas e contornos.md",
-    "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/4 Transformações compostas.md",
-    "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/3 Outras transformações.md",
-    "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/2 Abertura e fechamento.md",
-    "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas/1 Erosão e dilatação e Para saber mais Kernel.md",
-    "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/4 Saber Mais.md",
-    "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/3 limiarização de Otsu.md",
-    "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/2 Limiarização adaptativa.md",
-    "Visão Computacional reconhecimento de Placas/0.2 - Limiarização/1 Limiarização simples e Função threshold.md",
-    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/5 - Adicional.md",
-    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/4 Configurações adicionais.md",
-    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/3 Detectando textos.md",
-    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/2 Instalando o Tesseract.md",
-    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/4",
-    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/3",
-    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/2",
-    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema/1 Preparando o ambiente",
-    "Visão Computacional reconhecimento de Placas/0.5 - Reconhecimento Automatizado",
-    "Visão Computacional reconhecimento de Placas/0.4 - Detecção de Placa",
-    "Visão Computacional reconhecimento de Placas/0.3 - Transformações Morfológicas",
-    "Visão Computacional reconhecimento de Placas/0.2 - Limiarização",
-    "Visão Computacional reconhecimento de Placas/0.1 - Entendendo o problema",
     "Pasted image 20230308123522.png",
     "Pasted image 20230307164527.png",
     "Pasted image 20230307164454.png",
