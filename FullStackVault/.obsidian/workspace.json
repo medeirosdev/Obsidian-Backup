@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79162edc3a54aedf",
+            "id": "9c17fff6610031a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/JDBC/6.0 CRUD Acessar Dado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27e8ee7385de6205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/JDBC/7.0 CRUD Update.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReactJS/Resumo Geral.md",
+                "file": "JAVA/JDBC/7.0 CRUD Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +117,38 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ac8a32bb61b77a58",
+  "active": "27e8ee7385de6205",
   "lastOpenFiles": [
-    "ReactJS/Hooks.md",
+    "Pasted image 20230320140814.png",
+    "Pasted image 20230320140740.png",
+    "Pasted image 20230320140653.png",
+    "Pasted image 20230320140606.png",
+    "JAVA/JDBC/6.0 CRUD Acessar Dado.md",
+    "JAVA/JDBC/7.0 CRUD Update.md",
+    "Pasted image 20230320135952.png",
+    "Pasted image 20230320135232.png",
+    "Pasted image 20230320134916.png",
+    "JAVA/JDBC/5.0 CRUD - Register.md",
+    "Pasted image 20230320134642.png",
+    "Pasted image 20230320134551.png",
+    "Pasted image 20230320134528.png",
+    "Pasted image 20230320134209.png",
+    "JAVA/JDBC/4.0 Criar Tabelas através do JDBC.md",
+    "JAVA/JDBC/3.0 Criar Banco de Dados no Próprio Java.md",
+    "JAVA/JDBC/2.0 Como Conectar ao banco de dados.md",
+    "JAVA/JDBC/1.0 JDBC.md",
+    "React Native/0.1 Ambiente/0.3 Iniciando Ambiente.md",
+    "JAVA/JDBC",
+    "React Native/0.1 Ambiente/0.2 Instalando o Expo.md",
+    "React Native/0.1 Ambiente/0.1 Expo App React Native.md",
     "ReactJS/Resumo Geral.md",
+    "ReactJS/Hooks.md",
     "ReactJS/Componentes e Props.md",
     "ReactJS/JSX.md",
     "ReactJS/ReactJS.md",
     "ReactJS/Regras dos Hooks.md",
     "ReactJS/Contexts.md",
     "ReactJS/Importing and Exporting Components.md",
-    "React Native/0.1 Ambiente/Expo App React Native.md",
     "Deep Learning parte 1 Keras/4 Ensinando o Modelo/3 Errata Ajuste de código.md",
     "React Native/0.1 Ambiente",
     "React Native",
@@ -122,31 +160,10 @@
     "Deep Learning parte 1 Keras/6 ajustando e salvando o modelo/4 Para saber mais.md",
     "Deep Learning parte 1 Keras/6 ajustando e salvando o modelo/3 Salvando o modelo.md",
     "Deep Learning parte 1 Keras/6 ajustando e salvando o modelo/2 Under e overfitting.md",
-    "Deep Learning parte 1 Keras/6 ajustando e salvando o modelo/1 Gráfico da acurácia.md",
-    "Deep Learning parte 1 Keras/5 Como medir o resultado do modleo/3 Avaliação e validação do modelo.md",
-    "Deep Learning parte 1 Keras/5 Como medir o resultado do modleo/2 Testando o modelo.md",
-    "Deep Learning parte 1 Keras/5 Como medir o resultado do modleo/1 Runtime e acurácia de treino.md",
-    "Deep Learning parte 1 Keras/4 Ensinando o Modelo/4 Definindo número de camadas.md",
-    "Deep Learning parte 1 Keras/4 Ensinando o Modelo/2 Escala de cinza e normalização.md",
-    "Deep Learning parte 1 Keras/4 Ensinando o Modelo/1 Argumentos do compile e treino do modelo.md",
-    "Deep Learning parte 1 Keras/3 Adicionando Camadas Ocultas/5 Softmax e multicamadas.md",
-    "Deep Learning parte 1 Keras/3 Adicionando Camadas Ocultas/4 A escolha da função.md",
-    "Deep Learning parte 1 Keras/3 Adicionando Camadas Ocultas/3 Relu e não linearidade.md",
     "Deep Learning parte 1 Keras/1 Conhecendo Conj de Dados/5",
     "Deep Learning parte 1 Keras/7 revisando conceitos chaves",
     "Deep Learning parte 1 Keras/6 ajustando e salvando o modelo",
     "Deep Learning parte 1 Keras/5 Como medir o resultado do modleo",
-    "Deep Learning parte 1 Keras/4 Ensinando o Modelo",
-    "Deep Learning parte 1 Keras/3 Adicionando Camadas Ocultas",
-    "Pasted image 20230315161717.png",
-    "Pasted image 20230308123522.png",
-    "Pasted image 20230307164527.png",
-    "Pasted image 20230307164454.png",
-    "Pasted image 20230307164349.png",
-    "Pasted image 20230307164035.png",
-    "Pasted image 20230307160958.png",
-    "Pasted image 20230307160605.png",
-    "Pasted image 20230306105021.png",
-    "Pasted image 20230306104903.png"
+    "Deep Learning parte 1 Keras/4 Ensinando o Modelo"
   ]
 }
